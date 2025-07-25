@@ -1,0 +1,15 @@
+{
+    "month": "July",
+    "date": "25, 2025",
+    "tasks": [
+        {
+            "description": "Write a scriipt",
+            "status": "pending"
+        }
+    ],
+    "priorities": [
+        "Write a scriipt"
+    ],
+    "notes": "",
+    "reminder": ""
+}
